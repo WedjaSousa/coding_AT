@@ -12,8 +12,8 @@ para troca de informações e armazenamento.
 ### Branch
 > Ramificações estilo árvore onde mais de uma pessoa trabalha no mesmo projeto sem alteração principal
 > onde pode ser feito correções e bugs de forma isolada onde não irá comprometer o projeto inicial.
->> O código principal normalmente é descrito por main ou master.
->>> O uso de branch facilita para manter o a organização e organização do projeto de software.
+- O código principal normalmente é descrito por main ou master.
+- O uso de branch facilita para manter o a organização e organização do projeto de software.
 
 ### Pull Request
 >Permite que outros desenvolvedores comentem, revisem e proponham ajustes do projeto.
@@ -21,3 +21,6 @@ para troca de informações e armazenamento.
 > facilitando a colaboração e o controle de qualidade no desenvolvimento de software.
 
 ### Merge
+> Processo de combinar duas ou mais versões de um conjunto de dados, para resolver conflitos se houver, e criar uma versão consolidada do projeto.
+>
+> 
