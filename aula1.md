@@ -23,4 +23,12 @@ para troca de informações e armazenamento.
 ### Merge
 > Processo de combinar duas ou mais versões de um conjunto de dados, para resolver conflitos se houver, e criar uma versão consolidada do projeto.
 >
-> 
+### Readme
+- Gerador online
+  
+### Markdown
+
+- Utilizados um guia para ajudar no processo de criação do repositório
+- 
+### Issues
+
