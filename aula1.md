@@ -23,12 +23,22 @@ para troca de informações e armazenamento.
 ### Merge
 > Processo de combinar duas ou mais versões de um conjunto de dados, para resolver conflitos se houver, e criar uma versão consolidada do projeto.
 >
-### Readme
-- Gerador online
+### Readme.md
+>Fornece informações essenciais sobre o projeto para que os desenvolvedores e outros colaboradores possam entender, usar e contribuir com o código.
+- Gerador online para facilitar a criação principalmente das informações pessoais.
   
 ### Markdown
-
-- Utilizados um guia para ajudar no processo de criação do repositório
-- 
+> Linguagem de marcação simples que permite formatar texto com facilidade. 
+- Utilizados um guia para ajudar no processo de criação do repositório onde explica os sinais que devemos
+atribuir para a criação do mesmo.
+  
 ### Issues
+>Ele permite que usuários e desenvolvedores relatem, discutam e acompanhem problemas ou sugestões relacionados a um projeto de software.
+-Usuários podem criar tickets para descrever bugs, falhas ou problemas encontrados no projeto.
+
+
+
+
+#### Resumo: Aula bastante produtiva onde aprendemos a utilizar o GitHub mais a fundo e algumas linguagens que o mesmo proporciona, foi expllicado o conteúdo em sala e depois a construção na prática dos termos utilizados, acima fiz um breve resumo do que foi tratado e a funcionalidade das linguagens utilizadas para melhor entendimento e repositório para futuros estudos.
+
 
